@@ -1,0 +1,25 @@
+{
+
+     "URL" : "https://demo.guru99.com/insurance/v1/index.php" ,
+     "User_Title" : "Miss" ,
+     "First_Name" : "Shani" ,
+     "Last_Name" : "Hettiarachchi" ,
+     "Phone_Number" : "+94718400116" ,
+     "Birth_Year" : "1988" ,
+     "Birth_Month" : "May" ,
+     "Birth_Date" : "3" ,
+     "Licence_Type" : "Full" ,
+     "Licence_Period" : "5" ,
+     "Occupation" : "Engineer" ,
+     "Street_Add" : "146/6 A" ,
+     "City_Add" : "Bokundara" ,
+     "Country_Add" : "Sri Lanka" ,
+     "Post_Code" : "10300" ,
+     "Email" : "hettiarachchism@gmail.com" ,
+     "Password" : "Shani@1234" ,
+     "Confirm_Password" : "Shani@1234" ,
+     "userConfirmationText" : "hettiarachchism@gmail.com"
+     
+
+
+}
