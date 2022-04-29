@@ -74,7 +74,6 @@ public class TestUserRegisration {
 		objRegPage.clickCreateButton();
 		
 
-	
 	}
 	
 	@AfterTest
@@ -83,6 +82,7 @@ public class TestUserRegisration {
 			driver.quit();
 	  }
 	  
+	
 	
 	}
 
