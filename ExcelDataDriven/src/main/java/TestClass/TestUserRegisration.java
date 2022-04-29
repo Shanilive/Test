@@ -77,11 +77,7 @@ public class TestUserRegisration {
 	
 	}
 	
-	@AfterTest
-	  public void tearDown() {
-		    driver.close();
-			driver.quit();
-	  }
+	
 	  
 	
 	}
