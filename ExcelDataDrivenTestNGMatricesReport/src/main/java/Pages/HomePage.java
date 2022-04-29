@@ -9,7 +9,7 @@ public class HomePage {
 	
 	By Home_Page_Title = By.xpath("//div[@class='content']/h4");
 	
-	
+	 // this page verified after login into the system by using registered US and PW
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 	}
